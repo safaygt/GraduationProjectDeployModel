@@ -12,7 +12,7 @@ from flask_cors import CORS
 CORS(app)
 
 # Modeli yükle
-MODEL_PATH = "C:\\Users\\safay\\OneDrive\\Masaüstü\\bitirme\\my_model\\my_model.pt"
+MODEL_PATH = "C:\\Users\\safay\\OneDrive\\Masaüstü\\bitirme\\my_model3\\my_model.pt"
 if not os.path.exists(MODEL_PATH):
     raise FileNotFoundError(f"Model dosyası bulunamadı: {MODEL_PATH}")
 
