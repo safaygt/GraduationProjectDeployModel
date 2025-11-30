@@ -10,7 +10,8 @@ app = Flask(__name__)
 from flask_cors import CORS
 CORS(app)
 
-MODEL_PATH = "C:\\Users\\safay\\OneDrive\\Masaüstü\\bitirme\\my_model3\\my_model.pt"
+MODEL_PATH = "/app/my_model.pt"
+
 if not os.path.exists(MODEL_PATH):
     raise FileNotFoundError(f"Model dosyası bulunamadı: {MODEL_PATH}")
 
@@ -76,4 +77,4 @@ def get_processed_image(filename):
     return send_from_directory(PROCESSED_FOLDER, filename)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=False) 
