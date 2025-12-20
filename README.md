@@ -73,7 +73,9 @@ cd GraduationProjectDeployModel
 
 ### 2. Run Locally
 
+Make sure the required Python packages are already installed in your environment.
 
+Run the Flask application using:
 ```bash
 python app.py
 ```
