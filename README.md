@@ -97,15 +97,21 @@ docker-compose up --build -d
 Related Repositories
 <ul> 
   <li>Backend (Spring Boot)</li>
-  <p>[Graduation Project Backend → GitHub](https://github.com/safaygt/graduation-project.git)</p>
+  <p><a href="https://github.com/safaygt/graduation-project.git">
+      Graduation Project Backend → GitHub
+    </a></p>
   
   <li>Frontend (React)</li>
-  <p>[Graduation Project Frontend → GitHub](https://github.com/safaygt/GraduationProjectFrontEnd.git)</p> 
+  <p><a href="https://github.com/safaygt/GraduationProjectFrontEnd.git">
+      Graduation Project Frontend → GitHub
+    </a></p> 
 </ul>
 
 Model Codes Link
 <ul>
-  <li>[Model](https://colab.research.google.com/drive/1cXxeEJbGrX1H93ppr1vmGhJWHi5AY8j1)</li>
+  <li><a href="https://colab.research.google.com/drive/1cXxeEJbGrX1H93ppr1vmGhJWHi5AY8j1">
+      Model → Google Colab
+    </a></li>
 </ul>
 
 
