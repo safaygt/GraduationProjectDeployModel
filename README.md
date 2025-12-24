@@ -105,14 +105,19 @@ Related Repositories
   <p><a href="https://github.com/safaygt/GraduationProjectFrontEnd.git">
       Graduation Project Frontend → GitHub
     </a></p> 
+
+    
+  <li>Model Codes</li>
+     <p><a href="https://colab.research.google.com/drive/1cXxeEJbGrX1H93ppr1vmGhJWHi5AY8j1">
+      Model → Google Colab
+  </a></p>
+    
 </ul>
 
-Model Codes Link
-<ul>
-  <li><a href="https://colab.research.google.com/drive/1cXxeEJbGrX1H93ppr1vmGhJWHi5AY8j1">
-      Model → Google Colab
-    </a></li>
-</ul>
+
+
+
+
 
 
 <h1>Developer</h1>
